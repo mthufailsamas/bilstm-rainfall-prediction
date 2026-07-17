@@ -1,5 +1,10 @@
 # Rainfall Prediction with BiLSTM
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow and Keras](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](BiLSTM_Rainfall_Prediction.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2E8B57.svg)](LICENSE)
+
 This project predicts daily rainfall using a Bidirectional Long Short-Term Memory (BiLSTM) neural network. It includes
 exploratory data analysis, data cleaning, time-series sequence generation,
 normalization, hyperparameter search, model evaluation, and prediction plotting.
