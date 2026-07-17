@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+tensorflow
+h5py>=3.11,<3.15
+notebook
+ipykernel
