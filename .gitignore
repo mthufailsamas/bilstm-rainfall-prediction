@@ -1,0 +1,29 @@
+# Python and notebook caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments, editors, and system files
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated runtime files
+.matplotlib_cache/
+outputs/
+tmp*/
+*.log
+
+# Project-specific model artifacts and private data
+*.keras
+*.weights.h5
+export-FKLIM-*.csv
