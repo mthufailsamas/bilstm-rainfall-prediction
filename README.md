@@ -1,4 +1,4 @@
-# Rainfall Prediction with BiLSTM
+# Rainfall Forecasting with BiLSTM and Grid Search
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow and Keras](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
